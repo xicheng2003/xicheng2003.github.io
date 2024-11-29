@@ -1,6 +1,6 @@
 ---
 layout: '[post]'
-title: test
+title: 关于月刊 写作记录的习惯养成
 date: 2024-11-28 12:57:36
 tags:
 ---
