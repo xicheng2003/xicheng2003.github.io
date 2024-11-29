@@ -3,18 +3,18 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 晨曦的数字秘境
+title: 晨曦|数字秘境
 subtitle: ''
-description: ''
-keywords:
+description: '一些模糊的记录'
+keywords: 数字秘境
 author: Michael Lin
 language: zh-cn
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://blog.morlight.top
-permalink: :year/:month/:day/:title/
+url: http://vague.morlight.top
+permalink: :year/:month/:day/:name/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
